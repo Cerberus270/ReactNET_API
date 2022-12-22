@@ -14,7 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "api/gestores",
-      "applicationUrl": "https://0.0.0.0:7118;https://0.0.0.0:5118",
+      "applicationUrl": "https://localhost:7118",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
